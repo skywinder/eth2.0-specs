@@ -146,4 +146,4 @@ Let `bls_verify_multiple(pubkeys: List[Bytes48], messages: List[Bytes32], signat
 
 ## Iplementations
 
-* (Bellman community with Ethereum's BN256 support by The Matter)[https://github.com/matterinc/bellman]
+* [Bellman community with Ethereum's BN256 support by The Matter](https://github.com/matterinc/bellman)
